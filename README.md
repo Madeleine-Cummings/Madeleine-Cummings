@@ -1,5 +1,5 @@
 ## Hi there 👋
-My Name is Madeleine and I am a student at UVA studying DAta Science!
+My Name is Madeleine and I am a student at UVA studying Data Science!
 <!--
 **Madeleine-Cummings/Madeleine-Cummings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
